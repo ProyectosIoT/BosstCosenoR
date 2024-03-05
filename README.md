@@ -68,7 +68,7 @@
   </style>
 
 
-<h3> Controlador led 
+<h3> Controlador fuente
  
  <button id="btn10">10%</button>
     <button id="btn25">25%</button>
