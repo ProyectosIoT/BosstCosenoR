@@ -56,12 +56,12 @@
       background-color: #ff00ff;
       color: white;
     }
-    #btnOn {
+    #btn80 {
       background-color: #e74c3c;
       color: white;
     }
 
-    #btnOff {
+    #btn60 {
       background-color: #95a5a6;
       color: white;
     }
@@ -73,11 +73,9 @@
  <button id="btn10">10%</button>
     <button id="btn25">25%</button>
     <button id="btn50">50%</button>
+    <button id="btn60">60%</button>
+    <button id="btn80">80%</button>
     <button id="btn100">100%</button>
   
- <h3> Motor   
- 
-   <button id="btnOn">Prender</button>
-     <button id="btnOff">Apagar</button>
-  
+
   
