@@ -15,7 +15,7 @@
             margin: 15px;
             font-size: 18px;
             border: yes;
-            border-radius: 5px;
+            border-radius: 10px;
             cursor: pointer;
             transition: background-color 0.3s, transform 0.2s;
         }
