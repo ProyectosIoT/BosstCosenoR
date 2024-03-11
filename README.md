@@ -10,7 +10,7 @@
             justify-content: space-between;
         }
 
-        .button {
+         .button {
             display: inline-block;
             padding: 10px 20px;
             margin: 10px;
