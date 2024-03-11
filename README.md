@@ -48,7 +48,31 @@
             background-color: #FF0000;
         }
 
-        #btnApagarb {
+        #btnApagar {
+            background-color: #34495e;
+        }
+        
+        #btn10 {
+            background-color: #e74c3c;
+        }
+
+        #btn25 {
+            background-color: #f1c40f;
+        }
+
+        #btn50 {
+            background-color: #2ecc71;
+        }
+
+        #btn75 {
+            background-color: #27ae60;
+        }
+
+        #btn90 {
+            background-color: #FF0000;
+        }
+
+        #btnApagar {
             background-color: #34495e;
         }
     </style>
