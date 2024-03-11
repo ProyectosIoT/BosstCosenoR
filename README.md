@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 
 <head>
@@ -14,7 +14,7 @@
             padding: 10px 20px;
             margin: 10px;
             font-size: 18px;
-            border: none;
+            border: yes;
             border-radius: 5px;
             cursor: pointer;
             transition: background-color 0.3s, transform 0.2s;
