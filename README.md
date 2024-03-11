@@ -87,6 +87,13 @@
     <button class="button" id="btn90b" onclick="window.location.href='#90b'">90%</button>
     <button class="button" id="btnApagarb" onclick="window.location.href='#apagarb'">Apagar</button>
 
+
+
+
+
+
+
+
  <div class="cruce-coseno">
         <h3>Cruce por coseno</h3>
         <button class="button" id="btn10" onclick="window.location.href='#10'">10%</button>
