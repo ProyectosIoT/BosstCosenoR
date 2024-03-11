@@ -80,14 +80,13 @@
 
 <body>
     <h3>Fuente Bosst</h3>
+    <p>&nbsp;&nbsp;&nbsp;
     <button class="button" id="btn10b" onclick="window.location.href='#10b'">10%</button>
     <button class="button" id="btn25b" onclick="window.location.href='#25b'">25%</button>
     <button class="button" id="btn50b" onclick="window.location.href='#50b'">50%</button>
     <button class="button" id="btn75b" onclick="window.location.href='#75b'">75%</button>
     <button class="button" id="btn90b" onclick="window.location.href='#90b'">90%</button>
-    <button class="button" id="btnApagarb" onclick="window.location.href='#apagarb'">Apagar</button>
-
-
+    <button class="button" id="btnApagarb" onclick="window.location.href='#apagarb'">Apagar</button>.</p>
 
 
 
