@@ -50,10 +50,36 @@
       background-color: #ff00ff;
       color: white;
     }
-
+    
     #btn80 {
       background-color: #e74c3c;
       color: white;
     }
+
+    #btn60 {
+      background-color: #95a5a6;
+      color: white;
+    }
+  </style>
+</head>
+
+<body>
+  <h3>Controlador fuente</h3>
+
+  <button id="btn10" onclick="openNewTab('https://tu-url-para-el-10%')">10%</button>
+  <button id="btn25" onclick="openNewTab('https://tu-url-para-el-25%')">25%</button>
+  <button id="btn50" onclick="openNewTab('https://tu-url-para-el-50%')">50%</button>
+  <button id="btn60" onclick="openNewTab('https://tu-url-para-el-60%')">60%</button>
+  <button id="btn80" onclick="openNewTab('https://tu-url-para-el-80%')">80%</button>
+  <button id="btn100" onclick="openNewTab('https://tu-url-para-el-100%')">100%</button>
+
+  <script>
+    function openNewTab(url) {
+      window.open(url, '_blank');
+    }
+  </script>
+</body>
+
+</html>
 
 
