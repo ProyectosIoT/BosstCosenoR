@@ -12,7 +12,7 @@
         .button {
             display: inline-block;
             padding: 10px 20px;
-            margin: 10px;
+            margin: 15px;
             font-size: 18px;
             border: yes;
             border-radius: 5px;
