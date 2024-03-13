@@ -83,7 +83,7 @@
 <body>
     <style>
         body {
-            text-align: CENTER;
+            text-align: RIGHT;
         }
     <h3>Fuente Bosst</h3>
     <p>&nbsp;&nbsp;&nbsp;
@@ -97,7 +97,7 @@
      <p>&nbsp;&nbsp;&nbsp;</p>
      <p>&nbsp;&nbsp;&nbsp;</p>
      <p>&nbsp;&nbsp;&nbsp;</p>
-
+  </style>
  <div class="cruce-coseno">
         <h3>Cruce por coseno</h3>
         <button class="button" id="btn10" onclick="window.location.href='#10'">10%</button>
