@@ -55,10 +55,30 @@
 
         #btn25,
         #btn50b,
+
+        #btn50b {
+            background-color: #2ecc71;
+        }
+
+
         #btn50,
         #btn75b,
+        
+     
+        #btn75b {
+            background-color: #27ae60;
+        }
+
+
         #btn75,
         #btn90b,
+
+        #btn90b {
+            background-color: #FF0000;
+        }
+
+     
+
         #btn90 {
             margin-right: 5px;
         }
