@@ -79,12 +79,11 @@
         }
     </style>
 </head>
-
-<body>
-    <style>
+  <style>
         body {
             text-align: RIGHT;
         }
+<body>
     <h3>Fuente Bosst</h3>
     <p>&nbsp;&nbsp;&nbsp;
     <button class="button" id="btn10b" onclick="window.location.href='#10b'">10%</button>
