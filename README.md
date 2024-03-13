@@ -50,8 +50,7 @@
       
         #btn25b {
             background-color: #f1c40f;
-        }
-
+        },
         #btn25,
         #btn50b,
 
