@@ -35,6 +35,10 @@
         #btn90b,
         #btnApagarb {
             background-color: #34495e;
+            {
+            background-color: #e74c3c;
+        }
+
         }
 
         #btn10b,
