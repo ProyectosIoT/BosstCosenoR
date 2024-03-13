@@ -28,11 +28,7 @@
             transform: translateY(2px);
         }
 
-  </style>
- <style>
-        body {
-            text-align: right;
-        }
+
 
         #btn10b {
             background-color: #e74c3c;
