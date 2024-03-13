@@ -27,6 +27,10 @@
         .button:active {
             transform: translateY(2px);
         }
+ <style>
+        body {
+            text-align: right;
+        }
 
         #btn10b {
             background-color: #e74c3c;
@@ -51,6 +55,7 @@
         #btnApagar {
             background-color: #34495e;
         }
+       </style>
         
         #btn10 {
             background-color: #e74c3c;
