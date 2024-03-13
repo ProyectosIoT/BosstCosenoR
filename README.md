@@ -41,10 +41,9 @@
         }
 
         #btn10b,
-        
         #btn10b {
             background-color: #e74c3c;
-        }
+        },
 
         #btn10,
         #btn25b,
