@@ -53,7 +53,6 @@
         #btnApagar {
             background-color: #34495e;
         }
-       </style>
         
         #btn10 {
             background-color: #e74c3c;
