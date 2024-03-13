@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -29,59 +29,55 @@
         }
 
         #btn10b,
-        #btn25b,
-        #btn50b,
-        #btn75b,
-        #btn90b,
-        #btnApagarb {
-            background-color: #34495e;
-            {
+        #btn10 {
             background-color: #e74c3c;
         }
 
+        #btn25b,
+        #btn25 {
+            background-color: #f1c40f;
         }
 
-        #btn10b,
-        #btn10,
-        #btn25b,
-        #btn25,
         #btn50b,
-        #btn50,
+        #btn50 {
+            background-color: #2ecc71;
+        }
+
         #btn75b,
-        #btn75,
+        #btn75 {
+            background-color: #27ae60;
+        }
+
         #btn90b,
         #btn90 {
-            margin-right: 5px;
+            background-color: #FF0000;
         }
 
-        .fuente-bosst,
-        .cruce-coseno {
-            width: 50%;
-            margin: 0 auto;
-        }
-
-        .fuente-bosst {
-            text-align: left;
-            float: left;
+        #btnApagarb,
+        #btnApagar {
+            background-color: #34495e;
         }
 
         .cruce-coseno {
             text-align: right;
-            float: right;
         }
     </style>
 </head>
 
 <body>
-    <div class="fuente-bosst">
-        <h3>Fuente Bosst</h3>
+    <h3>Fuente Bosst</h3>
+    <p>&nbsp;&nbsp;&nbsp;
         <button class="button" id="btn10b" onclick="window.location.href='#10b'">10%</button>
         <button class="button" id="btn25b" onclick="window.location.href='#25b'">25%</button>
         <button class="button" id="btn50b" onclick="window.location.href='#50b'">50%</button>
         <button class="button" id="btn75b" onclick="window.location.href='#75b'">75%</button>
         <button class="button" id="btn90b" onclick="window.location.href='#90b'">90%</button>
-        <button class="button" id="btnApagarb" onclick="window.location.href='#apagarb'">Apagar</button>
-    </div>
+        <button class="button" id="btnApagarb" onclick="window.location.href='#apagarb'">Apagar</button>.
+    </p>
+    <p>&nbsp;&nbsp;&nbsp;</p>
+    <p>&nbsp;&nbsp;&nbsp;</p>
+    <p>&nbsp;&nbsp;&nbsp;</p>
+    <p>&nbsp;&nbsp;&nbsp;</p>
 
     <div class="cruce-coseno">
         <h3>Cruce por coseno</h3>
