@@ -43,14 +43,13 @@
         #btn10b,
         #btn10b {
             background-color: #e74c3c;
-        },
-
+        }
         #btn10,
         #btn25b,
       
         #btn25b {
             background-color: #f1c40f;
-        },
+        }
         #btn25,
         #btn50b,
 
@@ -61,16 +60,11 @@
 
         #btn50,
         #btn75b,
-        
-     
         #btn75b {
             background-color: #27ae60;
         }
-
-
         #btn75,
         #btn90b,
-
         #btn90b {
             background-color: #FF0000;
         }
